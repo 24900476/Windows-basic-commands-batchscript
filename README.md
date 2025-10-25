@@ -1,6 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-
+### Name :Kabira A
+### Reg No : 212224040146
 # AIM:
 To execute Windows basic commands and batch scripting
 
