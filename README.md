@@ -26,50 +26,64 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 
+![mkdir](./img/os%201.png)
+
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
+![rmdir](./img/os2.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
+
+![Rose.txt](./img/os3.png)
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
+![file.txt](./img/os4.png)
+
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+
+![hello1.txt](./img/os5.png)
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
+![hello1.txt](./img/os%206.png)
+
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+
+![assoc](./img/os%207.png)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
+![file](./img/os%209.png)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 
+![compare](./img/os%208.png)
+
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
-
-
-
 ## OUTPUT
 
+![bash](./img/os10.png)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -84,7 +98,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![oddeven](./img/os11.png)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -94,7 +108,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-
+![Number](./img/os12.png)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -107,6 +121,7 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+![sample](./img/os13.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -117,7 +132,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-
+![5bat](./img/os14.png)
 
 # RESULT:
 The commands/batch files are executed successfully.
